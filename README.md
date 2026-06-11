@@ -1,4 +1,4 @@
-# Quants: Qualitative User's Application Numerical Tracking System
+# Quants: Qualitative Users Application Numerical Tracking System
 
 ### Data-Driven Resume Optimization for Modern Hiring
 
